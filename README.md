@@ -5,7 +5,7 @@ Este projeto é o meu **portfólio pessoal**, criado para apresentar meus projet
 
 O portfólio inclui seções com meus projetos anteriores, informações de contato e links para minhas redes sociais e GitHub.
 
-Tenha Acesso ao Portfolio Digital aqui:https://vercel.com/gjunior17crvgs-projects/meu-portfolio
+Tenha Acesso ao Portfolio Digital aqui : https://meu-portfolio-eta-rose.vercel.app/
 ---
 
 ## Funcionalidades
