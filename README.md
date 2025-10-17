@@ -71,4 +71,4 @@ Observações
 
 Todo o portfólio foi desenvolvido com HTML, CSS e JavaScript puro, sem frameworks.
 
-Foco em responsividade, interatividade e organização de conteúdo.
+Foco em responsividade, interatividade e organização de conteúdo.# MeuPortf-lio
