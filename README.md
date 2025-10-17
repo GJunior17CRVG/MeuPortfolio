@@ -4,7 +4,7 @@
 Este projeto é o meu **portfólio pessoal**, criado para apresentar meus projetos, competências e informações profissionais de maneira clara, interativa e responsiva. O objetivo é demonstrar minhas habilidades em desenvolvimento web e organização de conteúdo digital, oferecendo uma experiência agradável ao usuário.
 
 O portfólio inclui seções com meus projetos anteriores, informações de contato e links para minhas redes sociais e GitHub.
-
+Tenha Acesso ao Portfolio Digital aqui:https://vercel.com/gjunior17crvgs-projects/meu-portfolio
 ---
 
 ## Funcionalidades
@@ -50,7 +50,7 @@ O portfólio inclui seções com meus projetos anteriores, informações de cont
 - Exibição dos meus projetos e informações profissionais.
 - Galeria de imagens e vídeo demonstrativo.
 - Botões interativos e scroll suave.
-- [Ver Portfólio](https://seuportfolio.vercel.app/) | [GitHub](https://github.com/GJunior17CRVG/MeuPortfolio)
+- [Ver Portfólio](https://vercel.com/gjunior17crvgs-projects/meu-portfolio) | [GitHub](https://github.com/GJunior17CRVG/MeuPortfolio)
 
 ---
 
