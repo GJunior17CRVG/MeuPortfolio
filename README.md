@@ -4,6 +4,7 @@
 Este projeto é o meu **portfólio pessoal**, criado para apresentar meus projetos, competências e informações profissionais de maneira clara, interativa e responsiva. O objetivo é demonstrar minhas habilidades em desenvolvimento web e organização de conteúdo digital, oferecendo uma experiência agradável ao usuário.
 
 O portfólio inclui seções com meus projetos anteriores, informações de contato e links para minhas redes sociais e GitHub.
+
 Tenha Acesso ao Portfolio Digital aqui:https://vercel.com/gjunior17crvgs-projects/meu-portfolio
 ---
 
@@ -30,27 +31,6 @@ Tenha Acesso ao Portfolio Digital aqui:https://vercel.com/gjunior17crvgs-project
 - Manipulação de elementos e eventos com JavaScript (DOM).
 - Controle de versionamento com GitHub.
 - Organização e apresentação de informações de forma clara.
-
----
-
-## Projetos Inclusos
-### Projeto 1 - Hino do Vasco
-- Aplicação web que reproduz o hino do Vasco ao clicar em um botão.
-- Galeria de imagens relacionadas.
-- Layout responsivo.
-- [Ver site](https://voc-vascaino.vercel.app/) | [GitHub](https://github.com/GJunior17CRVG/Voc-Vascaino-/blob/main/README.md)
-
-### Projeto 2 - Jornal Online
-- Simulação de uma página de notícias com seções de manchetes e artigos.
-- Carrossel de notícias principais.
-- Layout responsivo para desktop e mobile.
-- [Ver App](https://o-reporter.vercel.app/#) | [GitHub](https://github.com/GJunior17CRVG/o-reporter)
-
-### Projeto 3 - Meu Portfólio Pessoal
-- Exibição dos meus projetos e informações profissionais.
-- Galeria de imagens e vídeo demonstrativo.
-- Botões interativos e scroll suave.
-- [Ver Portfólio](https://vercel.com/gjunior17crvgs-projects/meu-portfolio) | [GitHub](https://github.com/GJunior17CRVG/MeuPortfolio)
 
 ---
 
